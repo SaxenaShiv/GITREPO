@@ -4,7 +4,7 @@
 * To verify git config --list
 
 # (You need to do it always) when you create repo
-* git intit -> git repo create 
+* git init -> git repo create 
 * create a file .gitignore => add node_modules to it 
 
 * git add .
